@@ -19,6 +19,7 @@
 Add the following line to your `server.cfg`:
 ```cfg
 ensure exter-scenes
+ensure sb-laser
 ```
 
 ### PREVIEW

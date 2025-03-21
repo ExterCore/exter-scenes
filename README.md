@@ -31,7 +31,8 @@ this is the source code if you don't understand about this. just download the re
 [DOWNLOAD](https://github.com/ExterCore/exter-scenes/releases/tag/exter-scenes)
 
 ## 🎮 Usage
-- Use the **`/scene`** command to open the scene menu.
+- Use the **`/scenes`** command to open the scene menu.
+- Use the **`/removescene`** command for deleted scenes.
 - Add text and adjust its position and size.
 - Edit or delete existing scenes.
 - Scenes will persist until manually deleted or the server is restarted.

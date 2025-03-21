@@ -25,6 +25,11 @@ ensure sb-laser
 ### PREVIEW
 https://streamable.com/z0m91k
 
+## NOTED
+this is the source code if you don't understand about this. just download the release version
+
+[DOWNLOAD](https://github.com/ExterCore/exter-scenes/releases/tag/exter-scenes)
+
 ## 🎮 Usage
 - Use the **`/scene`** command to open the scene menu.
 - Add text and adjust its position and size.
